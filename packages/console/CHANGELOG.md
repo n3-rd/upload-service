@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.1](https://github.com/storacha/upload-service/compare/console-v2.2.0...console-v2.2.1) (2025-08-05)
+
+
+### Fixes
+
+* **console:** several fixes for mobile/smaller dimensions windows ([#345](https://github.com/storacha/upload-service/issues/345)) ([b0b12b3](https://github.com/storacha/upload-service/commit/b0b12b3f9d0dab66135679a0b21e084f1578cce9))
+
 ## [2.2.0](https://github.com/storacha/upload-service/compare/console-v2.1.3...console-v2.2.0) (2025-08-04)
 
 
